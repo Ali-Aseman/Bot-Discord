@@ -61,3 +61,32 @@ Community Verified icon</h2>
 
 
 ![Capture4](https://user-images.githubusercontent.com/96992358/156392867-3236e147-65d0-40d8-9c4a-0089f9b92ce5.PNG)
+
+
+<h1>Bot 3</h1>
+
+<h3>The third robot is to ban intruders from your server</h3>
+<h3>And there is another possibility to expel annoying people (keep in mind that the user can re-join your server</h3>
+<h3>But if you do not want such an open user to come to your server, you can use the ban</h3>
+<h3>It does not need much explanation :)</h3>
+<h3>You can use this command to completely block the user</h3>
+
+      $ban {@Id_User} 
+      
+      
+<h3>You can use this command to temporarily expel the user
+</h3>
+
+      $kick {@Id_User}
+      
+      
+<h1>Bot 4</h1>
+<h3>If you want to remove a user from the server for a few hours or a few minutes or a few seconds ..... you can use this robot
+</h3>
+<h3><To do this you must enter the following command/h3>
+
+      
+            
+
+      
+      $ban_time {@Id_User} 15
